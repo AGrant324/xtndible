@@ -1,3 +1,3 @@
 <?php
-  echo "test dsHello world";
+  echo "Hello world";
 ?>
