@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/cvkrcmz/public_html/demos/xtndible
-    - /bin/cp -r * $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
