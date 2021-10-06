@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cvkrcmz/public_html/demos/xtndible/folder
+    - export DEPLOYPATH=/home/cvkrcmz/public_html/demos/xtndible/
     - /bin/cp index.php $DEPLOYPATH
